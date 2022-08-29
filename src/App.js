@@ -68,7 +68,7 @@ function App() {
             </div>
 
             <div>
-              <h2 class="about__subtitle">I'am Anudeep</h2>
+              <h2 class="about__subtitle">I'am Anudeep R</h2>
               <p class="about__text">Seeking a challenging career with a progressive organization that provides an opportunity to capitalize my technical skills & abilities in the field of information technology (IT).</p>
             </div>
           </div>
