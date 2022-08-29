@@ -15,7 +15,7 @@ function App() {
       <header class="l-header">
         <nav class="nav bd-grid">
           <div>
-            <a href="#" class="nav__logo">Anudeep</a>
+            <a href="https://anudeeprachapalli.github.io/anudeep" class="nav__logo">Anudeep</a>
           </div>
 
           <div class="nav__menu" id="nav-menu">
@@ -44,7 +44,7 @@ function App() {
           <div class="home__social">
             <a href="" class="home__social-icon"><i class='bx bxl-linkedin'></i></a>
             <a href="" class="home__social-icon"><i class='bx bxl-behance' ></i></a>
-            <a href="" class="home__social-icon"><i class='bx bxl-github' ></i></a>
+            <a href="https://github.com/AnudeepRachapalli" class="home__social-icon"><i class='bx bxl-github' ></i></a>
           </div>
 
           <div class="home__img">
@@ -69,7 +69,7 @@ function App() {
 
             <div>
               <h2 class="about__subtitle">I'am Anudeep</h2>
-              <p class="about__text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate cum expedita quo culpa tempora, assumenda, quis fugiat ut voluptates soluta, aut earum nemo recusandae cumque perferendis! Recusandae alias accusamus atque.</p>
+              <p class="about__text">Seeking a challenging career with a progressive organization that provides an opportunity to capitalize my technical skills & abilities in the field of information technology (IT).</p>
             </div>
           </div>
         </section>
@@ -80,7 +80,7 @@ function App() {
           <div class="skills__container bd-grid">
             <div>
               <h2 class="skills__subtitle">Profesional Skills</h2>
-              <p class="skills__text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit optio id vero amet, alias architecto consectetur error eum eaque sit.</p>
+              <p class="skills__text">Please find below</p>
               <div class="skills__data">
                 <div class="skills__names">
                   <i class='bx bxl-html5 skills__icon'></i>
