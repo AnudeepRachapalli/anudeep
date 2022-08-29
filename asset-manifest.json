@@ -1,15 +1,23 @@
 {
   "files": {
     "main.css": "/anudeep/static/css/main.f7733f48.css",
-    "main.js": "/anudeep/static/js/main.c5ad6d5e.js",
+    "main.js": "/anudeep/static/js/main.4abb0885.js",
     "static/js/787.29ad80ef.chunk.js": "/anudeep/static/js/787.29ad80ef.chunk.js",
+    "static/media/work1.jpg": "/anudeep/static/media/work1.56b07f922b35521bc967.jpg",
+    "static/media/imagepic.png": "/anudeep/static/media/imagepic.4ae218113e137ca03d3c.png",
+    "static/media/Anudeep CV_2.0.docx": "/anudeep/static/media/Anudeep CV_2.0.95cf5ce7291cb3f4bd5f.docx",
+    "static/media/work5.jpg": "/anudeep/static/media/work5.ec6bc32106648527919e.jpg",
+    "static/media/work2.jpg": "/anudeep/static/media/work2.8ce2dcfde849319b6f92.jpg",
+    "static/media/work3.jpg": "/anudeep/static/media/work3.0ae9596bb00d9773ce17.jpg",
+    "static/media/work4.jpg": "/anudeep/static/media/work4.9ec37c245302266e99f9.jpg",
+    "static/media/work6.jpg": "/anudeep/static/media/work6.71c746fa8c4fac84069c.jpg",
     "index.html": "/anudeep/index.html",
     "main.f7733f48.css.map": "/anudeep/static/css/main.f7733f48.css.map",
-    "main.c5ad6d5e.js.map": "/anudeep/static/js/main.c5ad6d5e.js.map",
+    "main.4abb0885.js.map": "/anudeep/static/js/main.4abb0885.js.map",
     "787.29ad80ef.chunk.js.map": "/anudeep/static/js/787.29ad80ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7733f48.css",
-    "static/js/main.c5ad6d5e.js"
+    "static/js/main.4abb0885.js"
   ]
 }
